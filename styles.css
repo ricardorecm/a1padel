@@ -2849,6 +2849,7 @@ strong {
   width: 100%;
   position: relative;
   padding-bottom: 100px;
+  overflow-x: clip;
 }
 .story__header .hero-image {
   width: 100%;
@@ -2965,6 +2966,7 @@ strong {
   width: 100%;
   position: relative;
   padding-top: 45px;
+  overflow-x: clip;
 }
 
 .founder__pic {
@@ -3167,6 +3169,7 @@ strong {
 
 .superstars-generation {
   padding: 0;
+  overflow-x: clip;
 }
 
 .generation__subtitle {
